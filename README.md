@@ -1,2 +1,1 @@
-My first commit 
-git project
+My first commit
